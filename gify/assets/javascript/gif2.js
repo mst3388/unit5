@@ -90,7 +90,7 @@ $('#inputForm').keypress(function(e) {
 				"data-still": response.data[i].images.downsized_still.url,
 				"data-active": response.data[i].images.downsized.url,
 				"data-state": "still",
-				"width": "250"
+				"width": "150"
 			});
 
 			$('#gifs').append(image);

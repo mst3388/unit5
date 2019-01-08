@@ -1,0 +1,13 @@
+img:hover {
+	cursor: pointer;
+}
+
+img {
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+body {
+	background-color: aquamarine
+	;
+  }
